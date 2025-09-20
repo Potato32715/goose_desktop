@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.goosy{
+    display: grid;
+    justify-content: center;
+}
+.Download_Button{
+    background-color: #d1e5d1;
+
+}
